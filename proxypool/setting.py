@@ -1,11 +1,11 @@
 # Redis数据库地址
-REDIS_HOST = '47.106.153.117'
+REDIS_HOST = 'localhost'
 
 # Redis端口
 REDIS_PORT = 6379
 
 # Redis密码，如无填None
-REDIS_PASSWORD = 'huweidong'
+REDIS_PASSWORD = None
 
 REDIS_KEY = 'proxies'
 
